@@ -1,10 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
-</a>
-<img src="https://komarev.com/ghpvc/?username=VKJN&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center">
+
+`Alexandr Nosachev`
+#### Rostov-on-Don, 16 years
+  
+Hi there <br>
+I'm good at programming and math <br> 
+I'm learning to programm on `C++`, playing computer games <br>
+You can also look at some of my repositories, but i think you won't find something useful :) <br>
+My discord and telegram: `vkjn` `@VKJNQ`
+</div>
