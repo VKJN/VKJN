@@ -7,7 +7,6 @@
 #### Rostov-on-Don, 16 years
   
 Hi there <br>
-I'm good at programming and math <br> 
 I'm learning to programm on `C++`, playing computer games <br>
 You can also look at some of my repositories, but i think you won't find something useful :) <br>
 My discord and telegram: `vkjn` `@VKJNQ`
