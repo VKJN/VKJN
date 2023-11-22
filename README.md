@@ -4,8 +4,7 @@
 <div align="center">
 
 `Alexandr Nosachev`
-#### Rostov-on-Don, 16 years
-  
+
 Hi there <br>
 I'm learning to programm on `C++`, playing computer games <br>
 You can also look at some of my repositories, but i think you won't find something useful :) <br>
