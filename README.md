@@ -6,7 +6,7 @@
 `Alexandr Nosachev`
 
 Hi there <br>
-I'm learning to programm on `C++`, playing computer games <br>
+I'm learning to programm on `C++` <br>
 You can also look at some of my repositories, but i think you won't find something useful :) <br>
 My discord and telegram: `vkjn` `@VKJNQ`
 </div>
