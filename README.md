@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 
-`Alexandr Nosachev`
+`Alexander Nosachev`
 
 Hi there <br>
 I'm learning to programm on `C++` <br>
